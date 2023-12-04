@@ -1,13 +1,13 @@
-# Paynex-backend-API
+# Paxnex-backend-API
 
 
-Welcome to the Paynex API Documentation. This API provides various functionalities for managing users, accounts, financial transactions. It offers a wide range of features to create, read, update, and delete data. This API is a RESTful APIs using Node.js, Express.js and Mongoose.
+Welcome to the Paxnex API Documentation. This API provides various functionalities for managing users, accounts, financial transactions. It offers a wide range of features to create, read, update, and delete data. This API is a RESTful APIs using Node.js, Express.js and Mongoose.
 
 
 ## Manual Installation
 
-- git clone https://github.com/Team-Knight-Naija-SDGs-hackathon/paynex-backend.git
-- cd Paynex-backend
+- git clone https://github.com/deedee-code/Paxnex-hackathon.git
+- cd Paxnex-backend
 - npm install
 - Prepare the environment variables by generating .env file is the root directory to store your MONGODB_URI, JWT_SECRET and so on.
 - npm run dev
@@ -16,9 +16,9 @@ Welcome to the Paynex API Documentation. This API provides various functionaliti
 
 ## Table of Contents
 
-- [Features](https://github.com/Team-Knight-Naija-SDGs-hackathon/paynex-backend#features)
-- [Environment Variables](https://github.com/Team-Knight-Naija-SDGs-hackathon/paynex-backend#environment-variables)
-<!-- - [API Documentation](https://github.com/Team-Knight-Naija-SDGs-hackathon/paynex-backend#api-documentation) -->
+- [Features](https://github.com/deedee-code/Paxnex-hackathon#features)
+- [Environment Variables](https://github.com/deedee-code/Paxnex-hackathon#environment-variables)
+<!-- - [API Documentation](https://github.com/deedee-code/Paxnex-hackathon#api-documentation) -->
 
 
 
@@ -50,6 +50,9 @@ JWT_SECRET=JWT_SECRET_HERE
 #Nodemailer user and pass
 GOOGLE_USER=GOOGLE_USER_HERE
 GOOGLE_PASS=GOOGLE_PASS_HERE
+
+#paystack test/live secret key
+PAYSTACK_SECRET_KEY=PAYSTACK_SECRET_KEY_HERE
 ```
 
 
@@ -61,4 +64,3 @@ To view all APIs and learn all the details required for the requests and respons
 
 
 **THANK YOU!**
-# Paxnex-hackathon
