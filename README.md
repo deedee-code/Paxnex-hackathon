@@ -1,13 +1,13 @@
 # Paxnex-backend-API
 
 
-Welcome to the Paxnex API Documentation. This API provides various functionalities for managing users, accounts, financial transactions. It offers a wide range of features to create, read, update, and delete data. This API is a RESTful APIs using Node.js, Express.js and Mongoose.
+Welcome to the Paynex API Documentation. This API provides various functionalities for managing users, accounts, financial transactions. It offers a wide range of features to create, read, update, and delete data. This API is a RESTful APIs using Node.js, Express.js and Mongoose.
 
 
 ## Manual Installation
 
-- git clone https://github.com/deedee-code/Paxnex-hackathon.git
-- cd Paxnex-backend
+- git clone https://github.com/deedee-code/Paynex-hackathon.git
+- cd Paynex-backend
 - npm install
 - Prepare the environment variables by generating .env file is the root directory to store your MONGODB_URI, JWT_SECRET and so on.
 - npm run dev
@@ -16,9 +16,9 @@ Welcome to the Paxnex API Documentation. This API provides various functionaliti
 
 ## Table of Contents
 
-- [Features](https://github.com/deedee-code/Paxnex-hackathon#features)
-- [Environment Variables](https://github.com/deedee-code/Paxnex-hackathon#environment-variables)
-<!-- - [API Documentation](https://github.com/deedee-code/Paxnex-hackathon#api-documentation) -->
+- [Features](https://github.com/deedee-code/Paynex-hackathon#features)
+- [Environment Variables](https://github.com/deedee-code/Paynex-hackathon#environment-variables)
+<!-- - [API Documentation](https://github.com/deedee-code/Paynex-hackathon#api-documentation) -->
 
 
 
