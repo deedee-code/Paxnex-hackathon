@@ -1,4 +1,4 @@
-# Paxnex-backend-API
+# Paynex-backend-API
 
 
 Welcome to the Paynex API Documentation. This API provides various functionalities for managing users, accounts, financial transactions. It offers a wide range of features to create, read, update, and delete data. This API is a RESTful APIs using Node.js, Express.js and Mongoose.
